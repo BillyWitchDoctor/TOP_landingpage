@@ -1,0 +1,44 @@
+body {
+    font-family: 'roboto', 'Times New Roman', Times, serif;
+    background-color: black;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+}
+
+p {
+    color: white;
+}
+
+.hero {
+    background-color: #1F2937;
+    color: white;
+    flex:
+}
+
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 10px;
+    justify-content: center;
+}
+
+.quote-text {
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;;
+    font-size: 36px;
+}
+
+.quote-attribution {
+    font-weight: 900;
+    font-size: 28px;
+}
+
+
+.footer {
+    background-color: #1F2937;
+
+}
